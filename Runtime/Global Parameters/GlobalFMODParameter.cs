@@ -1,6 +1,6 @@
 using FMODUnity;
 
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	public abstract class GlobalFMODParameter<ValueType, ConverterType> : FMODParameter<ValueType, ConverterType>
 		where ConverterType : IConverter<ValueType>, new()

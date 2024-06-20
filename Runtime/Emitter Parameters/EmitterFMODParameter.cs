@@ -2,7 +2,7 @@ using UnityEngine;
 using FMODUnity;
 using System.Collections.Generic;
 
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	public abstract class EmitterFMODParameter<ValueType, ConverterType> : FMODParameter<ValueType, ConverterType>
 		where ConverterType : IConverter<ValueType>, new()

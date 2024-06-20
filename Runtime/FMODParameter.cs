@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	public abstract class FMODParameter<ValueType, ConverterType> : MonoBehaviour
 		where ConverterType : IConverter<ValueType>, new()

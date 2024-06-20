@@ -1,6 +1,6 @@
 using System;
 
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	[Serializable]
 	public sealed class FloatConverter : IConverter<float>

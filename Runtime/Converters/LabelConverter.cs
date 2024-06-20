@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	[Serializable]
 	public sealed class LabelConverter : IConverter<string>

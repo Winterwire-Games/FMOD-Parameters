@@ -1,4 +1,4 @@
-namespace dGameBoy101b.FMODParameters
+namespace WinterwireGames.FMODParameters
 {
 	public interface IConverter<ValueType>
 	{
