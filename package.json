@@ -1,0 +1,14 @@
+{
+	"name": "com.winterwiregames.fmod-parameters",
+	"version": "0.0.0",
+	"displayName": "FMOD Parameters",
+	"description": "A collection of components used to easily interface with FMOD parameters",
+	"author": {
+		"name": "Winterwire Games",
+		"email": "rhys.mader@winterwiregames.com",
+		"url": "https://www.winterwiregames.com"
+	},
+	"keywords":[
+		"FMOD"
+	]
+}
